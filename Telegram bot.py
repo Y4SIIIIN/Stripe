@@ -1,4 +1,5 @@
 import os
+# CHARACTER IS HOW YOU TREAT SOMEONE WHO CAN DO NOTHING FOR YOU.
 import threading
 import sqlite3
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
